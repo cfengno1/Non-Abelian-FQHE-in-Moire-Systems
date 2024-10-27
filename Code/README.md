@@ -1,3 +1,5 @@
+Code in Fig.1a calculate the Chern numbers of the first three bands.
+  
 Code in Fig.1b calculate the band structure of the noninteracting model for twisted MoTe2 Eq(1):
   The band parameters are in the subroutine make_band(). Output band structure along G-M-K-G is stored in val.dat.
 
